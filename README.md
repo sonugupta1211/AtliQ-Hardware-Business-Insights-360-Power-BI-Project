@@ -10,15 +10,15 @@ This project demonstrates the application of advanced Power BI concepts, includi
 
 The solution was developed by following and implementing concepts learned from the Codebasics Power BI Course.
 
-## 🎓 Course Reference
-
- https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project?utm_source=google&utm_medium=cpc&utm_campaign=BOFU_Search_Brand_DA_Other_Courses_Purchase&utm_content=Power_BI&utm_term=Codebasics%20power%20bi%20course&utm_source=google&utm_medium=cpc&utm_campaign=Video_DA_IN&campaignid=23051981007&adgroupid=189891308390&creative=775949308486&matchtype=e&device=c&keyword=codebasics%20power%20bi%20course&gad_source=1&gad_campaignid=23051981007&gbraid=0AAAAAC-cjyso0Z6yBcfIO-UWBykAwttDn&gclid=Cj0KCQjw3K7RBhDJARIsAKRtP5Qhsn06yN0D0i0dsCYxGqPGZEfftVEf7g8RMlOWmhMMBto9xhZAqKMaAppJEALw_wcB
-
 ## 🔗 Live Dashboard
- https://app.powerbi.com/view?r=eyJrIjoiNmU0NDUwYTktMTdmMC00YWE3LWIyZjktM2Y5ODQ3OTQ0MGM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiNmU0NDUwYTktMTdmMC00YWE3LWIyZjktM2Y5ODQ3OTQ0MGM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 **##Certification**
 https://codebasics.io/certificate/CB-49-442216
+
+## 🎓 Course Reference
+[Codebasics Power BI Course] 
+https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project
 
 ## 🎯 Business Problem
 
